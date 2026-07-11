@@ -33,10 +33,3 @@ A simple calculator that performs:
 
 Siraj Ahmed
 
-## Future Projects
-
-- Number Guessing Game
-- Multiplication Table Generator
-- Password Generator
-- To-Do List App
-- Student Management System
